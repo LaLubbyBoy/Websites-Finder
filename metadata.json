@@ -1,0 +1,6 @@
+{
+  "name": "LeadPulse AI - Business Discovery & Cold Email Platform",
+  "description": "AI-powered platform that discovers businesses with website gaps, researches socials & emails, and automates personalized cold outreach with confirmation reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
